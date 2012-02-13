@@ -1,0 +1,31 @@
+<ClassifierParams>
+    <GestureDataParams vectorSize="0" voteSize="1" refractoryPeriod="20" isRefractoryPerGroup="true" usePositions="false" useRelativePositions="false" useDeltas="true" flipx="false" useHeadConfidence="false" relativeJoint="unknown" isRepetitive="false" testFlag="false">
+        <Joints>            
+        </Joints>
+        <Scale  normalizeMean="false" normalizeSTD="false" doLocalScale="false" doGlobalScale="false" perCoordScaling="false" />
+    </GestureDataParams>
+    <LearningParams useLinear="false" useExactParams="false" gestureExpand="0" otherOverlap="0.0000" useWeights="false" weightFactor1="0.00" weightFactor2="0" testTolerance="0">
+        <TrainFiles />
+        <TestFiles />
+        <OutputFile path="" />
+        <Result c="0" g="0" s="0" avgAccuracy="0" trainAccuracy="0" testAccuracy="0" confusionMatrix="" />
+    </LearningParams>
+    <Gestures framesBefore="0">
+		<Gesture categoryName="_rightClick" gestureName="rightClick" label="3" />               
+		<Gesture categoryName="_rightScrollRight" gestureName="rightScrollRight" label="4" />
+        <Gesture categoryName="_rightScrollLeft" gestureName="rightScrollLeft" label="5" />        
+		<Gesture categoryName="_rightScrollUp" gestureName="rightScrollUp" label="6" />
+        <Gesture categoryName="_rightScrollDown" gestureName="rightScrollDown" label="7" />               		
+        <Gesture categoryName="other" gestureName="other" label="1" />
+    </Gestures>    
+	<DependentGestures>
+		<Gesture name="_rightClick" />        
+        <Gesture name="_rightScrollRight" />
+        <Gesture name="_rightScrollLeft" />
+        <Gesture name="_rightScrollUp" />
+        <Gesture name="_rightScrollDown" />        		
+    </DependentGestures>
+    <Model fileName="XorClassifier.dll" />
+    <Date created="" published="" />
+    <Comment value="" />
+</ClassifierParams>

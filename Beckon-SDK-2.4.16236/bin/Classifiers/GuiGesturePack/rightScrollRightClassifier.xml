@@ -1,0 +1,78 @@
+<ClassifierParams hidden="true">
+    <GestureDataParams vectorSize="19" voteSize="1" refractoryPeriod="15" isRefractoryPerGroup="true" usePositions="false" usePositionsX="false" usePositionsY="true" usePositionsZ="false" useDeltas="false" useDeltasX="false" useDeltasY="false" useDeltasZ="true" useRelativePositions="false" useRelativePositionsX="true" useRelativePositionsY="false" useRelativePositionsZ="false" flipx="false" useHeadConfidence="false" relativeJoint="torso" isRepetitive="false" fps="30">
+        <Joints>
+            <Joint name="rightFingerTip" X="true" Y="true" Z="true" />
+        </Joints>
+        <Scale normalizeMean="false" normalizeSTD="false" doLocalScale="false" doGlobalScale="false" perCoordScaling="false" useSmooth="false" smoothStrength="0" />
+    </GestureDataParams>
+    <LearningParams useLinear="false" gestureExpand="0" otherOverlap="0.0000" useWeights="true" weightFactor1="0.70" weightFactor2="20" testToleranceRight="3" testToleranceLeft="7" cost="2.00" gamma="-13.00" linearSolver="0" useSynthetic="false">
+        <TrainFiles>
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\8\right push_seq2.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\50\seq35.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\48\scroll_push_seq16.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\45\scroll_push_seq15.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\42\scroll_push_seq12.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\4\Gui_seq4.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\37\scroll_push_seq11.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\34\seq14.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\31\seq11.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\29\seq15.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\26\seq6.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\23\scroll_push_seq6.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\20\seq17.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\18\seq3.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\15\seq2.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\12\Gui_seq2.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\1\scroll_push_seq10.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\6\Gui_seq8.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\27\seq8.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\2\scroll_push_seq12.seq" />
+        </TrainFiles>
+        <TestFiles>
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\3\right push_seq1.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\33\seq2.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\39\scroll_push_seq7.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\44\seq10.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\38\scroll_push_seq6.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\22\scroll_push_seq5.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\5\Gui_seq6.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\49\seq2.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\11\right push_seq5.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\10\right push_seq4.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\36\seq6.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\13\Gui_seq3.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\19\seq16.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\17\scroll_push_seq19.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\40\seq3.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\24\seq35.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\7\Gui_seq9.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\32\seq1.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\41\seq4.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\14\scroll_push_seq15.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\9\right push_seq3.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\43\scroll_push_seq13.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\21\scroll_push_seq4.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\16\scroll_push_seq18.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\28\seq9.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\30\seq4.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\25\seq7.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\35\seq5.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\46\seq12.seq" />
+            <File path="P:\sequences\Gestures\OmekGUI\train\gui\sequences\47\seq13.seq" />
+        </TestFiles>
+        <OutputFile path="D:\training_data\gui\rightSwipeRight\learning_auto_10\rightSwipeRightClassifier.xml" />
+        <Result avgAccuracy="1" trainAccuracy="1" testAccuracy="0.983248" confusionMatrix="" />
+    </LearningParams>
+    <Gestures framesBefore="17">
+        <Gesture categoryName="rightScrollRight" gestureName="_rightScrollRight" label="3" />
+        <Gesture categoryName="xnegative" gestureName="noScroll" label="2" />
+        <Gesture categoryName="xnegative" gestureName="rightPush" label="2" />
+        <Gesture categoryName="xnegative" gestureName="rightScrollDown" label="2" />
+        <Gesture categoryName="xnegative" gestureName="rightScrollLeft" label="2" />
+        <Gesture categoryName="xnegative" gestureName="rightScrollUp" label="2" />
+        <Gesture categoryName="other" gestureName="other" label="1" />
+    </Gestures>
+    <Model fileName="rightScrollRightClassifier.model" />
+    <Date created="9/26/2011 8:12:38 PM" published="" />
+    <Comment value="" />
+</ClassifierParams>

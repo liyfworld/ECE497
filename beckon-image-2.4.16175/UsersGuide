@@ -1,0 +1,54 @@
+======================================================================
+The Beagleboard-xM image includes 3 demos.
+There are 3 scripts to activate them (can be found in /home/root).
+======================================================================
+
+
+======================================================================
+                      QtTracking Sample
+======================================================================
+
+The sample displays simple GUI with two windows: 
+left - the depth image as received from camera (the displayed image is of reduced quality
+than the actual depth data received from camera - due to quantization)
+right - the binary mask indicating the tracked person with marked skeleton joints. 
+An ESC key terminates the application.
+
+1) To run live tracking using camera input:
+   # sh ./tracking.sh
+
+2) To run prerecorded camera sequence (OpenNI sequence file (.oni)):
+   # sh ./tracking.sh -seq path/to/directory/containing/the/sequence/file
+  note: the path points to a directory containing the sequence, not to the sequence file itself.
+
+======================================================================
+                      TrackingViewer3D Sample
+======================================================================
+The sample displayes a stick-figure showing the tracked skeleton joints.
+
+1) To run live tracking using camera input:
+   # sh ./tracking3d.sh
+
+2) To run prerecorded camera sequence (OpenNI sequence file (.oni)):
+   # sh ./tracking3d.sh -seq path/to/directory/containing/the/sequence/file
+  note: the path points to a directory containing the sequence, not to the sequence file itself.
+
+
+======================================================================
+                      GestureDemo Sample
+======================================================================
+The sample track a human and prints each time a requested gesture is activated
+
+1) To run live tracking using camera input:
+   # sh ./gestures.sh
+
+2) To run prerecorded camera sequence (OpenNI sequence file (.oni)):
+   # sh ./gestures.sh -seq path/to/directory/containing/the/sequence/file -gest <gesture name> -gest ...
+   the supported list of gestures are:
+    _rightClick _leftClick
+    _rightScrollRight _rightScrollLeft _rightScrollUp _rightScrollDown
+    _leftScrollRight _leftScrollLeft _leftScrollUp _leftScrollDown
+
+  note: the path points to a directory containing the sequence, not to the sequence file itself.
+
+

@@ -1,0 +1,9 @@
+mpurate=1000
+
+#dvimode="hd720 omapfb.vram=0:8M,1:4M,2:4M"
+dvimode "640x480MR-16@60"
+
+vram=16M
+optargs="consoleblank=0"
+console="tty0 console=ttyS2,115200n8"
+

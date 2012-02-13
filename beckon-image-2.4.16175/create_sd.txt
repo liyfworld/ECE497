@@ -1,0 +1,42 @@
+
+To create an sd card:
+
+1. make sure you have bash installed on your system.
+   On Ubuntu you can install it by running:
+
+	sudo apt-get install bash
+
+2. insert the card into the machine using a card reader/writer
+
+3. run dmesg in the command line, you should see a message like this
+   in the end:
+
+   [ 5230.797273] sd 10:0:0:0: Attached scsi generic sg1 type 0
+   [ 5231.411571] sd 10:0:0:0: [sdb] 7744512 512-byte logical blocks: (3.96 GB/3.69 GiB)
+   [ 5231.412452] sd 10:0:0:0: [sdb] Write Protect is off
+   [ 5231.412458] sd 10:0:0:0: [sdb] Mode Sense: 03 00 00 00
+   [ 5231.413724] sd 10:0:0:0: [sdb] No Caching mode page present
+   [ 5231.413730] sd 10:0:0:0: [sdb] Assuming drive cache: write through
+   [ 5231.417729] sd 10:0:0:0: [sdb] No Caching mode page present
+   [ 5231.417734] sd 10:0:0:0: [sdb] Assuming drive cache: write through
+
+   This means that the card was identified as /dev/sdb. Make sure the
+   correct size of the card is shown. Your card might be identified as
+   /dev/sdc or /dev/sdd etc. we refer to the identified device as /dev/sdxxx.
+
+************************* WARNING: *******************************
+if you mistakingly use the main OS device name this script can
+erase you enrire OS, so please be careful.
+******************************************************************
+
+4. issue the following command:
+
+	sudo bash mkcard.sh /dev/sdxxx beagle-omek
+
+5. when the script finishes you can pull the card and put it in the beagleboard.
+   make sure the camera is connected to the beagleboard.
+
+6. turn on the beagleboard and wait for the boot process to reach the login screen.
+   login as user "root" with an empty password.
+
+7. for further instructions please refer to UsersGuide

@@ -1,0 +1,341 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#af9fc2cbbeeb02bebfb92a76d4f7296c7"><param name="Name" value="addGestureListener"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a71439c4ee3b88dc530b8dc6f18f32c35"><param name="Name" value="addJoint"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#ad033db6755652fd3b5a06414290bd397"><param name="Name" value="classify"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a86878d61d19ea6c069845fb681abc0de"><param name="Name" value="clear"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a8e6009db955cfed0aace808799d8d0eb"><param name="Name" value="clearAllJoints"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#ad453903e10d7194e0671e4954f05629c"><param name="Name" value="clearFiredEventsList"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#ab34e714bd2eafc8663edd55975ea4cfb"><param name="Name" value="clearJoint"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a2a114efba7f9c1e448f3e2590c25adde"><param name="Name" value="clone"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a8e11a526ba6b403d6b420e050faf8572"><param name="Name" value="containsJoint"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a87b949e2e97837c8f101f1bbddf89286"><param name="Name" value="copyCandidateMask"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a16adfe359461414256ed5dbb5e5a367d"><param name="Name" value="copyPlayerMask"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a8077a0d5ce9478e5e81c9cda67cd02da"><param name="Name" value="copyRawImage"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ab60eb7626afcd27a379f0ba162998c84"><param name="Name" value="createCameraSensor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#ae8c7238b0ebf97c481f1b7a3bb93c870"><param name="Name" value="createIFiredEvent"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a55ebf7fcf8fbafba48bc8868b9be6f64"><param name="Name" value="createSequenceSensor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a500eba7b534a65eb59ef3a5adbe9b5f3"><param name="Name" value="createSkeleton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a055e1e0eb6741bae18bce0fa795540ec"><param name="Name" value="disableAlert"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a815fe7c55a94be1bd4f447070718aec7"><param name="Name" value="disableAllAlerts"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a3c611bd41d6f7aaf673e36058cabf7ae"><param name="Name" value="disableAllGestures"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#abc8a50b14ee65d5d187d2c3813b01179"><param name="Name" value="disableGesture"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#aad5c4b2254d6335641fe39a69cc5e79d"><param name="Name" value="enableAlert"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a34a345d6b2e080ceef600c01be21aac4"><param name="Name" value="enableGesture"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#affc49fd4e110f78c8e4c12bb292572f7"><param name="Name" value="GestureInfo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a301d795a4d22cf14bf0fb9a55b4de860"><param name="Name" value="getCalibratedArmLength"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a86f2145ceabb8574414bc9c7a7a41049"><param name="Name" value="getCalibratedHeight"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#aaafd24a4f169b2518983674fe273a2d5"><param name="Name" value="getCalibratedLegLength"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#ab8e284db2fc984132efefa5e6f919eba"><param name="Name" value="getCalibratedShouldersWidth"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a80f24cebc2934ec080d5a4d516d79a00"><param name="Name" value="getCalibratedTorsoWidth"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#aba1a320236acb9aa7b6a918833cfa3f6"><param name="Name" value="getCameraName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#ace2dc1702fff1190bc6676d89cdf910a"><param name="Name" value="getCameraParameter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a23ba115d25fccbb041f63cb838493759"><param name="Name" value="getCategoryName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a91b5c7b7bf46387d6c80b8a459848633"><param name="Name" value="getCenterOfMass"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#aef79ad7748d97fc566c51f38861debba"><param name="Name" value="getCharacterStateData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#af33bd86f4756878c469a4051dc9dda79"><param name="Name" value="getConfidence"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a5fac2f2a00179a9aba40c7df8955a84a"><param name="Name" value="getCoordFlags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a7c910e22071bbf6bdea13cdede1bf8c7"><param name="Name" value="getDataLength"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a6df8d3c908d740eed2ce21db4b7c6334"><param name="Name" value="getDependedGestures"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#adf3b920c97423527d5cc23da1eb3d7b6"><param name="Name" value="getFloorPlaneParams"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a0360820ae7b9155b6961cbc877110ef7"><param name="Name" value="getFps"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a7dc040c8226727f00a6348a0bb42157d"><param name="Name" value="getFrameNum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a334306ff73b2e25217cf8ebc754bacbd"><param name="Name" value="getFramenum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a0e16fa636196b7c6ed3c22ee1be6f542"><param name="Name" value="getFrameTimestamp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a5c2af4cf96c207af9fc6e85a51307a53"><param name="Name" value="getGestureName"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a5c2af4cf96c207af9fc6e85a51307a53"><param name="Name" value="Omek::GestureInfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#afc7fca56d0c38befd3c166db23fc32c5"><param name="Name" value="Omek::IMotionSensor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#abd02fec0d5e4376ae1df845fab89997e"><param name="Name" value="getGesturesInfo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a3bbe7721e223c00db2116cb2adf729af"><param name="Name" value="getId"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#aae886a868ac5c82745a5c181af62ec2d"><param name="Name" value="getImageBpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#afbb894046f112bdca9d6af54ac639f49"><param name="Name" value="getImageChannels"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a7b09cc322211b9dc7d481b561f626d33"><param name="Name" value="getImageHeight"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a0c817d2eca6283e4a3ffa80fc489e101"><param name="Name" value="getImageWidth"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a90aef8d84ac3d750c6e90c3bff25c120"><param name="Name" value="getJointConfidence"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#afc3121bd441c99c4e156206e28688350"><param name="Name" value="getJointId"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a39e7e61d449158bb5b7159cd21fe156f"><param name="Name" value="getJointName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#af8180b93e62f2d39e0e50b14832d1bd9"><param name="Name" value="getJointPosition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a9f6261631c3f5cc84581976f859966a6"><param name="Name" value="getJointRotation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a1694614890d6bd93c88682ccd650d28d"><param name="Name" value="getJointsInfo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a6456f82b34cb1f51351ba7ea6bc44d2e"><param name="Name" value="getJointSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a9e860067b8688d2c672364f10fd12255"><param name="Name" value="getLabel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#aaf1f55f4ea2bf3074507716b908c866d"><param name="Name" value="getLastError"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a38d03828deef8ffa8dfb62a7d0871945"><param name="Name" value="getMaxCandidates"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a6a1c72c429b288bd93338b3d440394d3"><param name="Name" value="getMaxPlayers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a587dc4b78a6b658fc6d29b871774d9d2"><param name="Name" value="getModelFileName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#adb5f3564fa2728880b09b721317e48bf"><param name="Name" value="getName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a8abb6aaa8c5965e951606ae6bcfc248a"><param name="Name" value="getNameLen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a1a9c396cef6972b64426bf83493c2db0"><param name="Name" value="getNumOfCandidates"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a9d75c57d03336339a773812bb6f15079"><param name="Name" value="getNumOfFrames"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#abf1d2ebab50618d0fef5e95601e2a14d"><param name="Name" value="getNumOfGestures"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a50cee36a014c43980768ffcb6db0f8c7"><param name="Name" value="getNumOfJoints"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a96c87ac11c98e7133273fd6912a9b5d5"><param name="Name" value="getNumOfPlayers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a7714549354ee2bbaaa3b5d862f6b3f8d"><param name="Name" value="getNumSelectedCoords"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#af83c364048a129e09633f1327b3f96d5"><param name="Name" value="getPlayerId"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a7cd0562f95781873ab60b3235c9323a4"><param name="Name" value="getRawImageSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a5acf0b47ccb253cd4f8afd727992877e"><param name="Name" value="getRawSkeleton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ac48418ba4d9374dcec94bfb5cf5397b1"><param name="Name" value="getRetargetedSkeleton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a21a2703c3b320791e72d27669935b744"><param name="Name" value="getSensor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a382119be53ed7e92ea2ff057d8a769b3"><param name="Name" value="getSizePerFrame"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a34f0ab6b4b2334472d6368b97e883a3d"><param name="Name" value="getSkeleton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#acfb6d2b8ff9399ff11e521f423aa8dab"><param name="Name" value="getSmoothStrength"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#ab366b2e5ac0ec5267f74b6a1d7c0a05c"><param name="Name" value="getStatus"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a1af86ffa6d6725569aecb3f162a945da"><param name="Name" value="getTimestamp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a4e3377cff2ec3a5ce15c0aea52f96455"><param name="Name" value="getTorsoWidth"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a21e134b1578237fc92d460e6d13ccded"><param name="Name" value="getTrackingOptions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a8b0cbbfa8024dd5dd55a444c051485a7"><param name="Name" value="getType"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#ab84259c33cca553bb6fae00b17e49cd5"><param name="Name" value="goToFramenum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ac36bbb5c3e6f5172667e8ab56f55b6a2"><param name="Name" value="hasMoreAlerts"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ab6a74e2f24c703c0347180fdc4048f40"><param name="Name" value="hasMoreGestures"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a35b7724f50f0da21de657cf53fff20f5"><param name="Name" value="hasNewFrameData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#af9a8862b487383e56d869eb5e6b98a90"><param name="Name" value="IClassifier"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#a536d4b9199af4bc93c94ad198430434e"><param name="Name" value="init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#aa104ede3bbe363b09717d40083aa459f"><param name="Name" value="isAlive"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a44b87478c526799f72ed8b1e798c7a6d"><param name="Name" value="isPlayerActive"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#a9ceac4b45ef2979094893dc55afb0737"><param name="Name" value="isReady"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#aaaef8389df7e95b325296c4bea94ac29"><param name="Name" value="jointIdToName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a56c5b8479ab7fcba697d3f7a55366fe7"><param name="Name" value="JointInfo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a58a3a7a35b5ce8d062e03c6f703bca93"><param name="Name" value="jointNameToId"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a4542c1ca35338ef80e7f9fb17546cbd8"><param name="Name" value="m_categoryName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#a442dba9e722e263d219597fbadc47e79"><param name="Name" value="m_classifierParams"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#add27d55635beca4ada76308fdec364f0"><param name="Name" value="m_coordFlags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#ac36d544cde2655665f5b954d746bb7c7"><param name="Name" value="m_firedGestures"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a01044db071430f14855abf166f2647d5"><param name="Name" value="m_gestureName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#adc2958a60f60e9815939c4e6903ffa04"><param name="Name" value="m_isReady"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a2b436affe6be80ed9b9d9b90c38e8cd1"><param name="Name" value="m_jointName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#ae1d283059ef238c4124a9e72e6521f3d"><param name="Name" value="m_label"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a12d8e3e1cb4a08727d53e19363f58ce8"><param name="Name" value="m_numSelectedCoords"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a807223ff631b7a21e8afdf50be4d5e20"><param name="Name" value="NUM_OF_COORDINATES"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html"><param name="Name" value="Omek::GestureInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#affc49fd4e110f78c8e4c12bb292572f7"><param name="Name" value="GestureInfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a23ba115d25fccbb041f63cb838493759"><param name="Name" value="getCategoryName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a5c2af4cf96c207af9fc6e85a51307a53"><param name="Name" value="getGestureName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a9e860067b8688d2c672364f10fd12255"><param name="Name" value="getLabel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a4542c1ca35338ef80e7f9fb17546cbd8"><param name="Name" value="m_categoryName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a01044db071430f14855abf166f2647d5"><param name="Name" value="m_gestureName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#ae1d283059ef238c4124a9e72e6521f3d"><param name="Name" value="m_label"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a9949eab8fd43b3407af2f382ae2e23ff"><param name="Name" value="setCategoryName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a48fe46ea326416ab5e8df0432a7d889c"><param name="Name" value="setGestureName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#abd8c96266d538b48709032d91f52f657"><param name="Name" value="setLabel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_alert_listener.html"><param name="Name" value="Omek::IAlertListener"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_alert_listener.html#ad14d0cc073b477e5a2b55529a6e1dcd7"><param name="Name" value="onAlert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html"><param name="Name" value="Omek::IClassifier"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#ad033db6755652fd3b5a06414290bd397"><param name="Name" value="classify"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#ad453903e10d7194e0671e4954f05629c"><param name="Name" value="clearFiredEventsList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#af9a8862b487383e56d869eb5e6b98a90"><param name="Name" value="IClassifier"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#a536d4b9199af4bc93c94ad198430434e"><param name="Name" value="init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#a9ceac4b45ef2979094893dc55afb0737"><param name="Name" value="isReady"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#a442dba9e722e263d219597fbadc47e79"><param name="Name" value="m_classifierParams"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#ac36d544cde2655665f5b954d746bb7c7"><param name="Name" value="m_firedGestures"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#adc2958a60f60e9815939c4e6903ffa04"><param name="Name" value="m_isReady"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#aa03f0927a9db4222f2c68b4ab3ae4ab2"><param name="Name" value="onGesture"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html"><param name="Name" value="Omek::IClassifierParams"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a7c910e22071bbf6bdea13cdede1bf8c7"><param name="Name" value="getDataLength"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a6df8d3c908d740eed2ce21db4b7c6334"><param name="Name" value="getDependedGestures"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#abd02fec0d5e4376ae1df845fab89997e"><param name="Name" value="getGesturesInfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a1694614890d6bd93c88682ccd650d28d"><param name="Name" value="getJointsInfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a587dc4b78a6b658fc6d29b871774d9d2"><param name="Name" value="getModelFileName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier_params.html#a382119be53ed7e92ea2ff057d8a769b3"><param name="Name" value="getSizePerFrame"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html"><param name="Name" value="Omek::IFiredEvent"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#ae8c7238b0ebf97c481f1b7a3bb93c870"><param name="Name" value="createIFiredEvent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#af33bd86f4756878c469a4051dc9dda79"><param name="Name" value="getConfidence"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a7dc040c8226727f00a6348a0bb42157d"><param name="Name" value="getFrameNum"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a3bbe7721e223c00db2116cb2adf729af"><param name="Name" value="getId"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#adb5f3564fa2728880b09b721317e48bf"><param name="Name" value="getName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a8abb6aaa8c5965e951606ae6bcfc248a"><param name="Name" value="getNameLen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#af83c364048a129e09633f1327b3f96d5"><param name="Name" value="getPlayerId"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a1af86ffa6d6725569aecb3f162a945da"><param name="Name" value="getTimestamp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_fired_event.html#a8b0cbbfa8024dd5dd55a444c051485a7"><param name="Name" value="getType"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_gesture_listener.html"><param name="Name" value="Omek::IGestureListener"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_gesture_listener.html#a3a7cfe1954741e3e005d765d12bc3c3d"><param name="Name" value="onGesture"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html"><param name="Name" value="Omek::IMotionSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#af9fc2cbbeeb02bebfb92a76d4f7296c7"><param name="Name" value="addGestureListener"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a87b949e2e97837c8f101f1bbddf89286"><param name="Name" value="copyCandidateMask"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a16adfe359461414256ed5dbb5e5a367d"><param name="Name" value="copyPlayerMask"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a8077a0d5ce9478e5e81c9cda67cd02da"><param name="Name" value="copyRawImage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ab60eb7626afcd27a379f0ba162998c84"><param name="Name" value="createCameraSensor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a55ebf7fcf8fbafba48bc8868b9be6f64"><param name="Name" value="createSequenceSensor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a500eba7b534a65eb59ef3a5adbe9b5f3"><param name="Name" value="createSkeleton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a055e1e0eb6741bae18bce0fa795540ec"><param name="Name" value="disableAlert"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a815fe7c55a94be1bd4f447070718aec7"><param name="Name" value="disableAllAlerts"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a3c611bd41d6f7aaf673e36058cabf7ae"><param name="Name" value="disableAllGestures"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#abc8a50b14ee65d5d187d2c3813b01179"><param name="Name" value="disableGesture"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#aad5c4b2254d6335641fe39a69cc5e79d"><param name="Name" value="enableAlert"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a34a345d6b2e080ceef600c01be21aac4"><param name="Name" value="enableGesture"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#aef79ad7748d97fc566c51f38861debba"><param name="Name" value="getCharacterStateData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#adf3b920c97423527d5cc23da1eb3d7b6"><param name="Name" value="getFloorPlaneParams"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#afc7fca56d0c38befd3c166db23fc32c5"><param name="Name" value="getGestureName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#aaf1f55f4ea2bf3074507716b908c866d"><param name="Name" value="getLastError"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a38d03828deef8ffa8dfb62a7d0871945"><param name="Name" value="getMaxCandidates"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a6a1c72c429b288bd93338b3d440394d3"><param name="Name" value="getMaxPlayers"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a1a9c396cef6972b64426bf83493c2db0"><param name="Name" value="getNumOfCandidates"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#abf1d2ebab50618d0fef5e95601e2a14d"><param name="Name" value="getNumOfGestures"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a96c87ac11c98e7133273fd6912a9b5d5"><param name="Name" value="getNumOfPlayers"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a7cd0562f95781873ab60b3235c9323a4"><param name="Name" value="getRawImageSize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a5acf0b47ccb253cd4f8afd727992877e"><param name="Name" value="getRawSkeleton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ac48418ba4d9374dcec94bfb5cf5397b1"><param name="Name" value="getRetargetedSkeleton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a21a2703c3b320791e72d27669935b744"><param name="Name" value="getSensor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a34f0ab6b4b2334472d6368b97e883a3d"><param name="Name" value="getSkeleton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#acfb6d2b8ff9399ff11e521f423aa8dab"><param name="Name" value="getSmoothStrength"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a21e134b1578237fc92d460e6d13ccded"><param name="Name" value="getTrackingOptions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ac36bbb5c3e6f5172667e8ab56f55b6a2"><param name="Name" value="hasMoreAlerts"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ab6a74e2f24c703c0347180fdc4048f40"><param name="Name" value="hasMoreGestures"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a35b7724f50f0da21de657cf53fff20f5"><param name="Name" value="hasNewFrameData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a44b87478c526799f72ed8b1e798c7a6d"><param name="Name" value="isPlayerActive"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a715f7e7551cffa85d995b5285e6969fb"><param name="Name" value="pause"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ad9ceadb3ed4d68c4b81b45ed18f37e04"><param name="Name" value="popNextAlert"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ad022e6c6a5c899961659b6fa555a747e"><param name="Name" value="popNextGesture"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a952aabf39be05a03ca1500beb777d432"><param name="Name" value="processNextImage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a11c0363f4142ebb814c53766fa75b8c4"><param name="Name" value="recordSequence"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a7e2d09329cd2afac0f81eaa5459aa560"><param name="Name" value="releaseAlert"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a5e09ba0a5b308cae64f5270b4e38697e"><param name="Name" value="releaseGesture"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a9f4d3f3a5beedc1651efb45ba05474d0"><param name="Name" value="releaseMotionSensor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a2ffa136b0f8e1b1020254b8a3af9c521"><param name="Name" value="releaseSkeleton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a85dcf649a50c3f79647d529747f5592b"><param name="Name" value="removeGestureListener"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a344f0b5ce24d7f87c0a492b05eea29ac"><param name="Name" value="removeTarget"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#afa86ee257dcfb6fe7de068cb2191d0c0"><param name="Name" value="resetBackground"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a1d851e381ccf356a5f6f50ba43ae1615"><param name="Name" value="resetTracking"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a04a52f2f037126c034a27cd2abde1a17"><param name="Name" value="restart"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a6d6ec6004e89df026537fe01098fcd2f"><param name="Name" value="resume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ad48ea4eb677ac64e05fb0eb2f27bec62"><param name="Name" value="retargetMotion"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a541ca9517db74159bd62551f811e2bbb"><param name="Name" value="run"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ab9b0c32c62f2a8b179e766d3c6a3e940"><param name="Name" value="setFloorPlaneKnownTrueParams"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#af4a03ca67ac1c7ca872d6c6765ef7eaf"><param name="Name" value="setMaxCandidates"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a4b3913f3f9e46ad85023d5610ab07678"><param name="Name" value="setMaxPlayers"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#acf91acfa079ecb16af424400a2ac2f1c"><param name="Name" value="setSmoothStrength"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ac109846b250949998a79c930a36c501a"><param name="Name" value="setTrackingOptions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#adfde5dc4a22d771eb7e056997d70354f"><param name="Name" value="setVerbosityLevel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#aa25e610e0d4a83d75604be3306df951f"><param name="Name" value="startTracking"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ad2e103a6ae85b8c68ecdec466c3022e8"><param name="Name" value="stop"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a91699aa6a4733d877090d8dfc66ac3c3"><param name="Name" value="stopRecording"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a0a79d7967c0c21f74124f783c9a1f2c2"><param name="Name" value="stopTracking"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html"><param name="Name" value="Omek::ISensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#aba1a320236acb9aa7b6a918833cfa3f6"><param name="Name" value="getCameraName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#ace2dc1702fff1190bc6676d89cdf910a"><param name="Name" value="getCameraParameter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a0360820ae7b9155b6961cbc877110ef7"><param name="Name" value="getFps"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a334306ff73b2e25217cf8ebc754bacbd"><param name="Name" value="getFramenum"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a0e16fa636196b7c6ed3c22ee1be6f542"><param name="Name" value="getFrameTimestamp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#aae886a868ac5c82745a5c181af62ec2d"><param name="Name" value="getImageBpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#afbb894046f112bdca9d6af54ac639f49"><param name="Name" value="getImageChannels"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a7b09cc322211b9dc7d481b561f626d33"><param name="Name" value="getImageHeight"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a0c817d2eca6283e4a3ffa80fc489e101"><param name="Name" value="getImageWidth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#a9d75c57d03336339a773812bb6f15079"><param name="Name" value="getNumOfFrames"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#ab366b2e5ac0ec5267f74b6a1d7c0a05c"><param name="Name" value="getStatus"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#ab84259c33cca553bb6fae00b17e49cd5"><param name="Name" value="goToFramenum"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#aa104ede3bbe363b09717d40083aa459f"><param name="Name" value="isAlive"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#ac38be8766caca52d9aa111a61ed2b723"><param name="Name" value="setCameraParameter"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html"><param name="Name" value="Omek::ISkeleton"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a71439c4ee3b88dc530b8dc6f18f32c35"><param name="Name" value="addJoint"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a8e6009db955cfed0aace808799d8d0eb"><param name="Name" value="clearAllJoints"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#ab34e714bd2eafc8663edd55975ea4cfb"><param name="Name" value="clearJoint"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a2a114efba7f9c1e448f3e2590c25adde"><param name="Name" value="clone"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a8e11a526ba6b403d6b420e050faf8572"><param name="Name" value="containsJoint"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a301d795a4d22cf14bf0fb9a55b4de860"><param name="Name" value="getCalibratedArmLength"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a86f2145ceabb8574414bc9c7a7a41049"><param name="Name" value="getCalibratedHeight"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#aaafd24a4f169b2518983674fe273a2d5"><param name="Name" value="getCalibratedLegLength"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#ab8e284db2fc984132efefa5e6f919eba"><param name="Name" value="getCalibratedShouldersWidth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a80f24cebc2934ec080d5a4d516d79a00"><param name="Name" value="getCalibratedTorsoWidth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a91b5c7b7bf46387d6c80b8a459848633"><param name="Name" value="getCenterOfMass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a90aef8d84ac3d750c6e90c3bff25c120"><param name="Name" value="getJointConfidence"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#afc3121bd441c99c4e156206e28688350"><param name="Name" value="getJointId"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#af8180b93e62f2d39e0e50b14832d1bd9"><param name="Name" value="getJointPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a9f6261631c3f5cc84581976f859966a6"><param name="Name" value="getJointRotation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a6456f82b34cb1f51351ba7ea6bc44d2e"><param name="Name" value="getJointSize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a50cee36a014c43980768ffcb6db0f8c7"><param name="Name" value="getNumOfJoints"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a4e3377cff2ec3a5ce15c0aea52f96455"><param name="Name" value="getTorsoWidth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#aaaef8389df7e95b325296c4bea94ac29"><param name="Name" value="jointIdToName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a58a3a7a35b5ce8d062e03c6f703bca93"><param name="Name" value="jointNameToId"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a9fa42c8647f19accae2537f37608e565"><param name="Name" value="setJointConfidence"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#ae126c8d34d98fda9481d50aeb808a588"><param name="Name" value="setJointImagePosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a952dbed042ab745e526b55886353044e"><param name="Name" value="setJointPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a154b0777b61983f1eac7a607a6f7ff6a"><param name="Name" value="setJointRotation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#ae38d61eb61e3877b8b23835308af4dcd"><param name="Name" value="setJointSize"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html"><param name="Name" value="Omek::JointInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a86878d61d19ea6c069845fb681abc0de"><param name="Name" value="clear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a5fac2f2a00179a9aba40c7df8955a84a"><param name="Name" value="getCoordFlags"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a39e7e61d449158bb5b7159cd21fe156f"><param name="Name" value="getJointName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a7714549354ee2bbaaa3b5d862f6b3f8d"><param name="Name" value="getNumSelectedCoords"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a56c5b8479ab7fcba697d3f7a55366fe7"><param name="Name" value="JointInfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#add27d55635beca4ada76308fdec364f0"><param name="Name" value="m_coordFlags"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a2b436affe6be80ed9b9d9b90c38e8cd1"><param name="Name" value="m_jointName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a12d8e3e1cb4a08727d53e19363f58ce8"><param name="Name" value="m_numSelectedCoords"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_joint_info.html#a807223ff631b7a21e8afdf50be4d5e20"><param name="Name" value="NUM_OF_COORDINATES"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_alert_listener.html#ad14d0cc073b477e5a2b55529a6e1dcd7"><param name="Name" value="onAlert"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#aa03f0927a9db4222f2c68b4ab3ae4ab2"><param name="Name" value="onGesture"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_classifier.html#aa03f0927a9db4222f2c68b4ab3ae4ab2"><param name="Name" value="Omek::IClassifier"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_gesture_listener.html#a3a7cfe1954741e3e005d765d12bc3c3d"><param name="Name" value="Omek::IGestureListener"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a715f7e7551cffa85d995b5285e6969fb"><param name="Name" value="pause"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ad9ceadb3ed4d68c4b81b45ed18f37e04"><param name="Name" value="popNextAlert"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ad022e6c6a5c899961659b6fa555a747e"><param name="Name" value="popNextGesture"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a952aabf39be05a03ca1500beb777d432"><param name="Name" value="processNextImage"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a11c0363f4142ebb814c53766fa75b8c4"><param name="Name" value="recordSequence"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a7e2d09329cd2afac0f81eaa5459aa560"><param name="Name" value="releaseAlert"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a5e09ba0a5b308cae64f5270b4e38697e"><param name="Name" value="releaseGesture"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a9f4d3f3a5beedc1651efb45ba05474d0"><param name="Name" value="releaseMotionSensor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a2ffa136b0f8e1b1020254b8a3af9c521"><param name="Name" value="releaseSkeleton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a85dcf649a50c3f79647d529747f5592b"><param name="Name" value="removeGestureListener"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a344f0b5ce24d7f87c0a492b05eea29ac"><param name="Name" value="removeTarget"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#afa86ee257dcfb6fe7de068cb2191d0c0"><param name="Name" value="resetBackground"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a1d851e381ccf356a5f6f50ba43ae1615"><param name="Name" value="resetTracking"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a04a52f2f037126c034a27cd2abde1a17"><param name="Name" value="restart"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a6d6ec6004e89df026537fe01098fcd2f"><param name="Name" value="resume"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ad48ea4eb677ac64e05fb0eb2f27bec62"><param name="Name" value="retargetMotion"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a541ca9517db74159bd62551f811e2bbb"><param name="Name" value="run"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_sensor.html#ac38be8766caca52d9aa111a61ed2b723"><param name="Name" value="setCameraParameter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a9949eab8fd43b3407af2f382ae2e23ff"><param name="Name" value="setCategoryName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ab9b0c32c62f2a8b179e766d3c6a3e940"><param name="Name" value="setFloorPlaneKnownTrueParams"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#a48fe46ea326416ab5e8df0432a7d889c"><param name="Name" value="setGestureName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a9fa42c8647f19accae2537f37608e565"><param name="Name" value="setJointConfidence"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#ae126c8d34d98fda9481d50aeb808a588"><param name="Name" value="setJointImagePosition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a952dbed042ab745e526b55886353044e"><param name="Name" value="setJointPosition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#a154b0777b61983f1eac7a607a6f7ff6a"><param name="Name" value="setJointRotation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_skeleton.html#ae38d61eb61e3877b8b23835308af4dcd"><param name="Name" value="setJointSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_gesture_info.html#abd8c96266d538b48709032d91f52f657"><param name="Name" value="setLabel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#af4a03ca67ac1c7ca872d6c6765ef7eaf"><param name="Name" value="setMaxCandidates"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a4b3913f3f9e46ad85023d5610ab07678"><param name="Name" value="setMaxPlayers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#acf91acfa079ecb16af424400a2ac2f1c"><param name="Name" value="setSmoothStrength"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ac109846b250949998a79c930a36c501a"><param name="Name" value="setTrackingOptions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#adfde5dc4a22d771eb7e056997d70354f"><param name="Name" value="setVerbosityLevel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#aa25e610e0d4a83d75604be3306df951f"><param name="Name" value="startTracking"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#ad2e103a6ae85b8c68ecdec466c3022e8"><param name="Name" value="stop"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a91699aa6a4733d877090d8dfc66ac3c3"><param name="Name" value="stopRecording"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_omek_1_1_i_motion_sensor.html#a0a79d7967c0c21f74124f783c9a1f2c2"><param name="Name" value="stopTracking"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___tracking_options.html#ga5ecefcae91ef7d6b0356a32fad473791"><param name="Name" value="TRACK_ALL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___tracking_options.html#ga3e789b9e5c13ceedc349fad381488fd1"><param name="Name" value="TRACK_BASIC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___tracking_options.html"><param name="Name" value="Tracking options"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___tracking_options.html"><param name="Name" value="TrackingOptions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___tracking_options.html#ga5ecefcae91ef7d6b0356a32fad473791"><param name="Name" value="TRACK_ALL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___tracking_options.html#ga3e789b9e5c13ceedc349fad381488fd1"><param name="Name" value="TRACK_BASIC"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>
