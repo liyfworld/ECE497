@@ -937,16 +937,16 @@ void PlayingGamestate::updateScene() {
     }*/
 
     // move
-    fuckmain();
-    if (fuck1==1 && fuck==1){fuck1=0;fuck=0;}
-    if( fuck1==1 ) {
+    hahamain();
+    if (haha1==1 && haha==1){haha1=0;haha=0;}
+    if( haha1==1 ) {
         bat_has_target = false;
         itemBat->moveBy(-bat_sp_x_c, 0);
         if( itemBat->pos().x() < 0 ) {
             itemBat->setPos(0, itemBat->pos().y());
         }
     }
-    if (fuck==1){
+    if (haha==1){
         bat_has_target = false;
         itemBat->moveBy(bat_sp_x_c, 0);
         if( itemBat->pos().x() > scene->width() - bat_w_c ) {

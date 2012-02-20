@@ -13,8 +13,8 @@ using namespace std;
 using namespace Omek;
 
 static int a=0;
-static int fuck=0;
-static int fuck1=0;
+static int haha=0;
+static int haha1=0;
 static int count=1;
 // camera interface
 static ISensor* sensor = NULL;
@@ -56,7 +56,7 @@ void restore_terminal_settings(void)
     tcsetattr(0, TCSANOW, &oldt);  /* Apply saved settings */
 }
 
-int fuckmain(void)
+int hahamain(void)
 {
         int numberOfGestures = 0;
         int ret = 0;
@@ -195,9 +195,9 @@ int fuckmain(void)
                                         text << endl << "Gesture (" << (pFiredEvent->getName()!=NULL?pFiredEvent->getName():"") << ") fired in frame " << processedFrames;
                                         cout << text.str().c_str() << endl;
                                         std::string gestureName = pFiredEvent->getName();
-                                        if (gestureName == "_rightScrollRight") {fuck=1;}
-                                        else if (gestureName == "_leftScrollLeft") {fuck1=1;}
-                                        //else if (gestureName == "_rightClick") {fuck1=0;fuck=0;}
+                                        if (gestureName == "_rightScrollRight") {haha=1;}
+                                        else if (gestureName == "_leftScrollLeft") {haha1=1;}
+                                        //else if (gestureName == "_rightClick") {haha1=0;haha=0;}
 
 
                                         pSensor->releaseGesture(pFiredEvent);
