@@ -1,0 +1,6 @@
+#!/bin/sh
+if [ "$#" -gt 0 ]; then
+  /home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/configure -opensource -confirm-license -prefix /opt/qt-arm -no-qt3support -embedded arm -little-endian -xplatform qws/linux-DM3730-g++ -qtlibinfix E "$@"
+else
+  /home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/configure -opensource -confirm-license -prefix /opt/qt-arm -no-qt3support -embedded arm -little-endian -xplatform qws/linux-DM3730-g++ -qtlibinfix E
+fi

@@ -1,0 +1,16 @@
+prefix=/opt/qt-arm
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/QtDBus
+qt_config=lex yacc warn_on uic resources qt warn_on release incremental link_prl no_mocdepend release stl qt_no_framework cross_compile release shared dll embedded largefile stl precompile_header neon exceptions_off dylib create_prl link_prl depend_includepath QTDIR_build link_pkgconfig qt_install_headers qt warn_on depend_includepath qmake_cache target_qt hide_symbols create_libtool create_pc explicitlib moc thread shared dll
+moc_location=/home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/bin/moc
+uic_location=/home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/bin/uic
+
+Name: Qtdbuse
+Description: Qt DBus module
+Version: 4.6.2
+Libs: -L${libdir} -lQtDBusE 
+Libs.private: -L/home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/lib  -lQtXmlE -L/home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/lib -lQtCoreE -lpthread   
+Cflags: -DQT_SHARED -I/opt/qt-arm/include -I${includedir}
+Requires: QtCore QtXml
+

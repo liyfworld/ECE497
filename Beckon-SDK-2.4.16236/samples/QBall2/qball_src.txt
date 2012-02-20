@@ -1,0 +1,9 @@
+This source has been tested with Qt 4.7.0, using Qt Creator.
+
+QBall is released under the GPL.
+
+Please contact me if you have suggestions, bug fixes etc: mark dot harman at ntlworld dot com .
+
+Homepage: http://homepage.ntlworld.com/mark.harman/comp_qball.html
+
+Mark Harman 13 December 2010

@@ -1,0 +1,7 @@
+QMAKE_PRL_BUILD_DIR = /home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/./src/3rdparty/webkit/JavaScriptCore
+QMAKE_PRO_INPUT = JavaScriptCore.pro
+QMAKE_PRL_TARGET = libJavaScriptCoreE.a
+QMAKE_PRL_DEFINES = QT_SHARED
+QMAKE_PRL_CONFIG = lex yacc uic resources qt release incremental link_prl no_mocdepend release stl qt_no_framework cross_compile release embedded largefile stl precompile_header neon exceptions_off dylib create_prl link_prl depend_includepath QTDIR_build building-libs staticlib depend_includepath embedded qt_install_headers qt warn_on depend_includepath qmake_cache target_qt hide_symbols create_libtool create_pc explicitlib moc thread static staticlib
+QMAKE_PRL_VERSION = 4.6.2
+QMAKE_PRL_LIBS = -L/home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/lib  -lQtGuiE -L/home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/lib -lQtNetworkE -lQtCoreE -lpthread  

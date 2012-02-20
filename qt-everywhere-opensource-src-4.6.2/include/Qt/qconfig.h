@@ -1,0 +1,1 @@
+/home/wangg/FinalProject/qt-everywhere-opensource-src-4.6.2/src/corelib/global/qconfig.h
